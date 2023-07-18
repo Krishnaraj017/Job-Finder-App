@@ -41,9 +41,12 @@ npm start
 Launch the app on your device:
 
 Install the Expo Go app from your device's app store.
-npm install -g expo-cli
-npm install
-expo start
+npm install -g expo-cli,
+
+npm install,
+
+expo start,
+
 
 Scan the QR code displayed in the terminal or Expo Dev Tools using the Expo Go app.
 Testing API Endpoints:
